@@ -22,7 +22,7 @@ Helps track seasonal patterns and year-over-year performance fluctuations.
 _Map Visualization_ showcasing state-wise distribution of sales and profit across the United States.
 Provides a clear understanding of regional performance at a glance.
 
-4. Category and Segment Breakdown
+**4. Category and Segment Breakdown**
 _Bar and Donut charts_ display:
 Sales by Product Category (Office Supplies, Furniture, Technology)
 Sales by Segment (Consumer, Corporate, Home Office)
