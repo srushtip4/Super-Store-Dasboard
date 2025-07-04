@@ -48,3 +48,6 @@ Business analysis and reporting
 Interview and project portfolios
 Training and academic purposes
 Performance monitoring in retail domains
+
+![Super_Store_dashboard](https://github.com/user-attachments/assets/65a4997b-f911-4a14-b5e6-b85d067928e4)
+
